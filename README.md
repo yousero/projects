@@ -10,3 +10,4 @@
 * [1ball](https://yousero.github.io/1ball/)
 * [connect-four](https://yousero.github.io/connect-four/)
 * [tetris](https://yousero.github.io/tetris/)
+* [click-click](https://yousero.github.io/click-click/)
