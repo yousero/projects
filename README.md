@@ -2,10 +2,12 @@
 ### web apps
 
 * [todo](https://yousero.github.io/todo/)
+* [flash-cards](https://yousero.github.io/flash-cards/)
 
 ### web sites
 
 * [business-card](https://yousero.github.io/business-card/)
+* [landing](https://yousero.github.io/landing/)
 
 ### games
 
