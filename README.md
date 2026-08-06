@@ -17,3 +17,4 @@
 * [connect-four](https://yousero.github.io/connect-four/)
 * [tetris](https://yousero.github.io/tetris/)
 * [click-click](https://yousero.github.io/click-click/)
+* [tic-tac-toe](https://yousero.github.io/tic-tac-toe/)
