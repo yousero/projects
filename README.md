@@ -3,6 +3,7 @@
 
 * [todo](https://yousero.github.io/todo/)
 * [flash-cards](https://yousero.github.io/flash-cards/)
+* [chat](https://yousero.github.io/chat/)
 
 ### web sites
 
